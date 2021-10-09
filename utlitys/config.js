@@ -5,7 +5,7 @@ const config = {
 	local: {
 		port: 3000,
 		db: {
-			url: 'mongodb://localhost:27017/projectTest',
+			url: 'mongodb://localhost:27017/projectTestdaw',
 	
 		},
 		// db: {
